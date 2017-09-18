@@ -1,0 +1,10 @@
+C:\Users\Nathaniel\Desktop\MyCode\C#\UDPChat\UDPChat\bin\Debug\UDPChat.exe.config
+C:\Users\Nathaniel\Desktop\MyCode\C#\UDPChat\UDPChat\bin\Debug\UDPChat.exe
+C:\Users\Nathaniel\Desktop\MyCode\C#\UDPChat\UDPChat\bin\Debug\UDPChat.pdb
+C:\Users\Nathaniel\Desktop\MyCode\C#\UDPChat\UDPChat\obj\Debug\UDPChat.csprojResolveAssemblyReference.cache
+C:\Users\Nathaniel\Desktop\MyCode\C#\UDPChat\UDPChat\obj\Debug\UDPChat.Form1.resources
+C:\Users\Nathaniel\Desktop\MyCode\C#\UDPChat\UDPChat\obj\Debug\UDPChat.Properties.Resources.resources
+C:\Users\Nathaniel\Desktop\MyCode\C#\UDPChat\UDPChat\obj\Debug\UDPChat.csproj.GenerateResource.Cache
+C:\Users\Nathaniel\Desktop\MyCode\C#\UDPChat\UDPChat\obj\Debug\UDPChat.csproj.CoreCompileInputs.cache
+C:\Users\Nathaniel\Desktop\MyCode\C#\UDPChat\UDPChat\obj\Debug\UDPChat.exe
+C:\Users\Nathaniel\Desktop\MyCode\C#\UDPChat\UDPChat\obj\Debug\UDPChat.pdb
